@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="682.0" prefWidth="684.0" style="-fx-background-color: #F0FFFF;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Line endX="190.0" layoutX="311.0" layoutY="78.0" startX="-181.0" />
+      <Label layoutX="181.0" layoutY="28.0" text="Employee Profile">
+         <font>
+            <Font name="System Bold Italic" size="34.0" />
+         </font>
+      </Label>
+      <Label layoutX="101.0" layoutY="110.0" text="Full Name :">
+         <font>
+            <Font name="System Bold Italic" size="24.0" />
+         </font>
+      </Label>
+      <Label layoutX="101.0" layoutY="208.0" text="ID : ">
+         <font>
+            <Font name="System Bold Italic" size="24.0" />
+         </font>
+      </Label>
+      <Label layoutX="422.0" layoutY="284.0" text="Birth Date : ">
+         <font>
+            <Font name="System Bold Italic" size="24.0" />
+         </font>
+      </Label>
+      <Label layoutX="427.0" layoutY="110.0" text="Gender : ">
+         <font>
+            <Font name="System Bold Italic" size="24.0" />
+         </font>
+      </Label>
+      <Label layoutX="423.0" layoutY="199.0" text="Address : ">
+         <font>
+            <Font name="System Bold Italic" size="24.0" />
+         </font>
+      </Label>
+      <Label layoutX="101.0" layoutY="291.0" prefHeight="35.0" prefWidth="215.0" text="Speciality : ">
+         <font>
+            <Font name="System Bold Italic" size="24.0" />
+         </font>
+      </Label>
+      <Label layoutX="101.0" layoutY="487.0" prefHeight="35.0" prefWidth="187.0" text="Phone Number :">
+         <font>
+            <Font name="System Bold Italic" size="24.0" />
+         </font>
+      </Label>
+      <Label layoutX="108.0" layoutY="429.0">
+         <font>
+            <Font name="System Bold Italic" size="24.0" />
+         </font>
+      </Label>
+      <Label layoutX="418.0" layoutY="480.0" prefHeight="35.0" prefWidth="200.0" text="E-mail Address : ">
+         <font>
+            <Font name="System Bold Italic" size="24.0" />
+         </font>
+      </Label>
+      <Label layoutX="101.0" layoutY="138.0" prefHeight="28.0" prefWidth="229.0" text="Ezz Addin Helal Kukhun">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <Label layoutX="423.0" layoutY="138.0" prefHeight="28.0" prefWidth="229.0" text="Male">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <Label layoutX="427.0" layoutY="313.0" prefHeight="28.0" prefWidth="229.0" text="dd/mm/yyyy">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <Label layoutX="101.0" layoutY="234.0" prefHeight="28.0" prefWidth="229.0" text="406812701">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <Label layoutX="423.0" layoutY="229.0" prefHeight="28.0" prefWidth="229.0" text="Nablus - assera">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <Label layoutX="101.0" layoutY="327.0" prefHeight="28.0" prefWidth="124.0" text="No">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <Label layoutX="94.0" layoutY="519.0" prefHeight="28.0" prefWidth="229.0" text="0599443322">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <Label layoutX="418.0" layoutY="519.0" prefHeight="28.0" prefWidth="229.0" text="ezkukhun2000@gmail.com">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="50.0" fitWidth="57.0" layoutX="34.0" layoutY="106.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@user%20(3).png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="50.0" fitWidth="57.0" layoutX="34.0" layoutY="204.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@id-card%20(1).png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="50.0" fitWidth="57.0" layoutX="34.0" layoutY="497.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@phone%20(3).png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="50.0" fitWidth="57.0" layoutX="359.0" layoutY="106.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@male-and-female-avatars.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="50.0" fitWidth="57.0" layoutX="359.0" layoutY="201.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@address.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="50.0" fitWidth="57.0" layoutX="359.0" layoutY="494.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@address%20(1).png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="50.0" fitWidth="57.0" layoutX="365.0" layoutY="294.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@calendar%20(2).png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="50.0" fitWidth="57.0" layoutX="34.0" layoutY="301.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@dossier.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="35.0" fitWidth="38.0" layoutX="-3.0" layoutY="-3.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@back.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="50.0" fitWidth="57.0" layoutX="34.0" layoutY="397.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@numbering.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="94.0" layoutY="380.0" prefHeight="35.0" prefWidth="215.0" text="Job Number : ">
+         <font>
+            <Font name="System Bold Italic" size="24.0" />
+         </font>
+      </Label>
+      <Label layoutX="94.0" layoutY="415.0" prefHeight="28.0" prefWidth="124.0" text="345688">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <Label layoutX="440.0" layoutY="415.0" prefHeight="28.0" prefWidth="124.0" text="3200 Nis">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="50.0" fitWidth="57.0" layoutX="365.0" layoutY="390.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@salary.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="430.0" layoutY="380.0" prefHeight="35.0" prefWidth="215.0" text="Salary : ">
+         <font>
+            <Font name="System Bold Italic" size="24.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
